@@ -1,4 +1,4 @@
-# ICLR Reprodicibility Challenge 2019
+# ICLR Reproducibility Challenge 2019
 
 [Website]() | [Sign-up Form]() 
 

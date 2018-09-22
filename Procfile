@@ -1,1 +1,1 @@
-web: python3 - m reprobot
+web: python - m reprobot

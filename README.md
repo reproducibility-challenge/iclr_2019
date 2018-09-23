@@ -38,6 +38,9 @@ You do not need to reproduce all experiments in your selected paper, for example
 
 If available, the authors' code can and should be used; authors of ICLR submissions are encouraged to release their code to facilitate this challenge. The methods described can also be implemented/re-implemented according to the description in the paper. This is a higher bar for reproducibility, but may be helpful in detecting anomalies in the code, or shedding light on aspects of the implementation that affect results.
 
+## Participating Institutions
+
+T.B.D, contact [Joelle Pineau](jpineau@cs.mcgill.ca)
 
 ## Important dates
 

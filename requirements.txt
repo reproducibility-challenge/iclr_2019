@@ -1,2 +1,6 @@
 aiohttp
 gidgethub
+gspread
+google-auth
+PyOpenSSL
+pandas

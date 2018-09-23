@@ -1,6 +1,6 @@
 # ICLR Reproducibility Challenge 2019
 
-[Website]() | [Sign-up Form](https://docs.google.com/forms/d/e/1FAIpQLSehp6-IcArs4hzWB9gkPsR_abekpZrDXCGf27I5G4vZ5h1kFQ/viewform?usp=sf_link) 
+[Website](https://www.cs.mcgill.ca/~jpineau/ICLR2019-ReproducibilityChallenge.html) | [Sign-up Form](https://docs.google.com/forms/d/e/1FAIpQLSehp6-IcArs4hzWB9gkPsR_abekpZrDXCGf27I5G4vZ5h1kFQ/viewform?usp=sf_link) 
 
 Welcome to the 2nd edition of ICLR reproducibility challenge! One of the challenges in machine learning research is to ensure that published results are reliable and reproducible. In support of this, the goal of this challenge is to investigate reproducibility of empirical results submitted to the [2019 International Conference on Learning Representations](http://iclr.cc/).
 We are choosing ICLR for this challenge because the timing is right for course-based participants (see below), and because papers submitted to the conference are automatically made available publicly on [Open Review](https://openreview.net/).
@@ -13,7 +13,7 @@ We will be using this repository primarily to organize the challenge. Once the I
 
 ### Submit form and note issue number
 
-Once you submit the form, a Github issue will be created for your claim. Take note of this issue number (#001). Participant details are kept anonymous from the issue, only the Team Name and Institution name should be visible for the claim. You are encouraged to contact the authors in private to clarify doubts regarding the paper but you should maintain your anonymity in the issue section before your report submission.
+Once you submit the form, a Github issue will be created for your claim. Take note of this issue number (#xxxx). Participant details are kept anonymous from the issue, only the Team Name and Institution name should be visible for the claim. You are encouraged to contact the authors in private to clarify doubts regarding the paper but you should maintain your anonymity in the issue section before your report submission.
 
 ### Post reproducibility project
 
@@ -21,13 +21,13 @@ After your reproducibility project is complete, you should:
 
 - Post a public description of your report to the linked OpenReview forum
 - Submit your paper in OpenReview
-- Change the label of your issue from "in-progress" to "complete". Note this is when you make yourself public. To do that, use our [@reprobot]() and comment the following: `@reprobot change-status complete`. Since in the form we asked your team lead's Github ID, this command can only used by him/her. We verify your ID and if you are assigned to this particular issue then we change the label of the issue to "complete".
+- Change the label of your issue from "in-progress" to "complete". Note this is when you make yourself public. To do that, mention the organization owner [@reproducibility-org]() and comment the following: `@reproducibility-org complete`. Since in the form we asked your team lead's Github ID, this command can only used by him/her. We verify your ID and if you are assigned to this particular issue then we change the label of the issue to "complete".
 - Link your Github reproducibilty repository in your issue comment (Optional but recommended, obviously!).
 - Submit a PR referring to this issue where you submit your report. 
 
 ### Leaving the competition
 
-If you choose to leave the competition, please comment the following: `@reprobot change-status close` which will close the issue if you are the valid owner of the issue.
+If you choose to leave the competition, please comment the following: `@reproducibility-org close` which will close the issue if you are the valid owner of the issue. If you want to work on another paper or work on the same paper, you will have to resubmit our form.
 
 ## Task Description
 
@@ -42,15 +42,15 @@ If available, the authors' code can and should be used; authors of ICLR submissi
 ## Important dates
 
 - Announcement of the challenge: Early September 2018
-- Registration of participants (see link below): Anytime during the fall
-- Final submission of reproducibility report (on OpenReview): Sometime in December
+- Registration of participants: Anytime during the fall
+- Final submission of reproducibility report: Sometime in December
 
 
-## Contact
+## Contact & People
 
-- [Genevieve Fried](), logistics and registration
-- [Rosemary Nan Ke](), references, adverstising and technical support
-- [Hugo Larochelle](), corporate sponsorship
-- [Joelle Pineau](), challenge coordinator
-- [Koustuv Sinha](), academic liason
+- [Genevieve Fried](mailto:genevieve.fried@mail.mcgill.ca), logistics and registration
+- [Rosemary Nan Ke](mailto:rosemary.nan.ke@gmail.com), references, adverstising and technical support
+- [Hugo Larochelle](mailto:hugolarochelle@google.com), corporate sponsorship
+- [Koustuv Sinha](mailto:koustuv.sinha@mail.mcgill.ca), academic liason
+- [Joelle Pineau](jpineau@cs.mcgill.ca), challenge coordinator
 

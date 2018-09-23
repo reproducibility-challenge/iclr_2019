@@ -9,7 +9,7 @@ We are choosing ICLR for this challenge because the timing is right for course-b
 
 ### Select a paper and avoid duplicate work
 
-We will be using this repository primarily to organize the challenge. Once the ICLR paper review period starts, [our form](https://docs.google.com/forms/d/e/1FAIpQLSehp6-IcArs4hzWB9gkPsR_abekpZrDXCGf27I5G4vZ5h1kFQ/viewform?usp=sf_link) will be live for participants to _claim_ a paper. Unlike last year's challenge, this year we want to encourage participants to avoid duplicate reproducibility efforts. Thus, before registering for the challenge [go through our issues](https://github.com/reproducibility-challenge/iclr_2019/issues) to search for the papers which are already claimed by other participants. You can search by the paper name or by the OpenReview ID, which you will need to submit at the time of registration.
+We will be using this repository primarily to organize the challenge. Once the ICLR paper review period starts, [our form](https://docs.google.com/forms/d/e/1FAIpQLSehp6-IcArs4hzWB9gkPsR_abekpZrDXCGf27I5G4vZ5h1kFQ/viewform?usp=sf_link) will be live for participants to _claim_ a paper. Unlike last year's challenge, this year we want to encourage participants to avoid duplicate reproducibility efforts. Thus, before registering for the challenge [go through our open issues](https://github.com/reproducibility-challenge/iclr_2019/issues) to search for the papers which are already claimed by other participants. You can search by the paper name or by the OpenReview ID, which you will need to submit at the time of registration. You can also claim a paper which has been "relinquished" (more on that below).
 
 ### Submit form and note issue number
 

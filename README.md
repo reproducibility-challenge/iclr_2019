@@ -13,6 +13,11 @@ We will be using this repository primarily to organize the challenge. Once the I
 
 ### Submit form and note issue number
 
+Now we are ready to submit the form. Fill the required questions, and make sure you have the following details handy:
+
+- OpenReview paper ID
+- Github login ID of the team lead
+
 Once you submit the form, a Github issue will be created for your claim. Take note of this issue number (#xxxx). Participant details are kept anonymous from the issue, only the Team Name and Institution name should be visible for the claim. You are encouraged to contact the authors in private to clarify doubts regarding the paper but you should maintain your anonymity in the issue section before your report submission.
 
 ### Post reproducibility project

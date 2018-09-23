@@ -24,9 +24,9 @@ Once you submit the form, a Github issue will be created for your claim. Take no
 
 After your reproducibility project is complete, you should:
 
+- Change the label of your issue from "in-progress" to "complete". Note this is when you make yourself public. To do that, mention the organization owner [@reproducibility-org]() and comment the following: `@reproducibility-org complete`. Since in the form we asked your team lead's Github ID, this command can only used by him/her. We verify your ID and if you are assigned to this particular issue then we change the label of the issue to "complete".
 - Post a public description of your report to the linked OpenReview forum
 - Submit your paper in OpenReview
-- Change the label of your issue from "in-progress" to "complete". Note this is when you make yourself public. To do that, mention the organization owner [@reproducibility-org]() and comment the following: `@reproducibility-org complete`. Since in the form we asked your team lead's Github ID, this command can only used by him/her. We verify your ID and if you are assigned to this particular issue then we change the label of the issue to "complete".
 - Link your Github reproducibilty repository in your issue comment (Optional but recommended, obviously!).
 - Submit a PR referring to this issue where you submit your report. 
 

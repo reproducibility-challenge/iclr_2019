@@ -5,6 +5,16 @@
 Welcome to the 2nd edition of ICLR reproducibility challenge! One of the challenges in machine learning research is to ensure that published results are reliable and reproducible. In support of this, the goal of this challenge is to investigate reproducibility of empirical results submitted to the [2019 International Conference on Learning Representations](http://iclr.cc/).
 We are choosing ICLR for this challenge because the timing is right for course-based participants (see below), and because papers submitted to the conference are automatically made available publicly on [Open Review](https://openreview.net/).
 
+## Task Description
+
+You should select a paper from the 2019 ICLR submissions, and aim to replicate the experiments described in the paper. The goal is to assess if the experiments are reproducible, and to determine if the conclusions of the paper are supported by your findings. Your results can be either positive (i.e. confirm reproducibility), or negative (i.e. explain what you were unable to reproduce, and potentially explain why).
+
+**Essentially, think of your role as an inspector verifying the validity of the experimental results and conclusions of the paper. In some instances, your role will also extend to helping the authors improve the quality of their work and paper.**
+
+You do not need to reproduce all experiments in your selected paper, for example the authors may experiment with a new method that requires more GPUs than you have access to, but also present results for a baseline method (e.g. simple logistic regression), in which case you could elect to reproduce only the baseline results. It is sometimes the case that baseline methods are not properly implemented, or hyper-parameter search is not done with the same degree of attention.
+
+If available, the authors' code can and should be used; authors of ICLR submissions are encouraged to release their code to facilitate this challenge. The methods described can also be implemented/re-implemented according to the description in the paper. This is a higher bar for reproducibility, but may be helpful in detecting anomalies in the code, or shedding light on aspects of the implementation that affect results.
+
 ## Registration & Workflow
 
 ### Select a paper and avoid duplicate work
@@ -34,16 +44,9 @@ After your reproducibility project is complete, you should:
 
 If you choose to leave the competition, please comment the following: `@reproducibility-org close` which will close the issue if you are the valid owner of the issue. If you want to work on another paper or work on the same paper, you will have to resubmit our form.
 
-## Task Description
-
-You should select a paper from the 2019 ICLR submissions, and aim to replicate the experiments described in the paper. The goal is to assess if the experiments are reproducible, and to determine if the conclusions of the paper are supported by your findings. Your results can be either positive (i.e. confirm reproducibility), or negative (i.e. explain what you were unable to reproduce, and potentially explain why).
-Essentially, think of your role as an inspector verifying the validity of the experimental results and conclusions of the paper. In some instances, your role will also extend to helping the authors improve the quality of their work and paper.
-
-You do not need to reproduce all experiments in your selected paper, for example the authors may experiment with a new method that requires more GPUs than you have access to, but also present results for a baseline method (e.g. simple logistic regression), in which case you could elect to reproduce only the baseline results. It is sometimes the case that baseline methods are not properly implemented, or hyper-parameter search is not done with the same degree of attention.
-
-If available, the authors' code can and should be used; authors of ICLR submissions are encouraged to release their code to facilitate this challenge. The methods described can also be implemented/re-implemented according to the description in the paper. This is a higher bar for reproducibility, but may be helpful in detecting anomalies in the code, or shedding light on aspects of the implementation that affect results.
-
 ## Participating Institutions
+
+Instructors teaching a graduate-level machine learning course in Fall 2018 are encouraged to use this challenge as their final course project. The project can be completed individually or in small groups. Participation by other researchers or research trainees with adequate machine learning experience is also encouraged.
 
 T.B.D, contact [Joelle Pineau](mailto:jpineau@cs.mcgill.ca)
 
@@ -53,6 +56,9 @@ T.B.D, contact [Joelle Pineau](mailto:jpineau@cs.mcgill.ca)
 - Registration of participants: Anytime during the fall
 - Final submission of reproducibility report: Sometime in December
 
+## Suggested Reading List
+
+[See this list](https://www.cs.mcgill.ca/~jpineau/ICLR2018-ReproducibilityChallenge-Readings.pdf). 
 
 ## Contact & People
 

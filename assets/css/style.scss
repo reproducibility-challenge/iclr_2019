@@ -2,7 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
-#search_banner {
+.search_banner {
     display: block;
     position: absolute;
     /* top: 0; */
@@ -17,4 +17,8 @@
     border-bottom-right-radius: 2px;
     border-top-left-radius: 2px;
     border-top-right-radius: 2px;
+}
+
+.search_banner .a {
+    color: #fff;
 }

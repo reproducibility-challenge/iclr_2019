@@ -45,7 +45,7 @@ If available, the authors' code can and should be used; authors of ICLR submissi
 
 ## Participating Institutions
 
-T.B.D, contact [Joelle Pineau](jpineau@cs.mcgill.ca)
+T.B.D, contact [Joelle Pineau](mailto:jpineau@cs.mcgill.ca)
 
 ## Important dates
 
@@ -60,5 +60,5 @@ T.B.D, contact [Joelle Pineau](jpineau@cs.mcgill.ca)
 - [Rosemary Nan Ke](mailto:rosemary.nan.ke@gmail.com), references, adverstising and technical support
 - [Hugo Larochelle](mailto:hugolarochelle@google.com), corporate sponsorship
 - [Koustuv Sinha](mailto:koustuv.sinha@mail.mcgill.ca), academic liason
-- [Joelle Pineau](jpineau@cs.mcgill.ca), challenge coordinator
+- [Joelle Pineau](mailto:jpineau@cs.mcgill.ca), challenge coordinator
 

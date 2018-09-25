@@ -60,6 +60,10 @@ T.B.D, contact [Joelle Pineau](mailto:jpineau@cs.mcgill.ca)
 
 [See this list](https://www.cs.mcgill.ca/~jpineau/ICLR2018-ReproducibilityChallenge-Readings.pdf). 
 
+## Questions?
+
+Drop us a mail at [reproducibility.challenge@gmail.com](mailto:reproducibility.challenge@gmail.com)
+
 ## Contact & People
 
 - [Genevieve Fried](mailto:genevieve.fried@mail.mcgill.ca), logistics and registration

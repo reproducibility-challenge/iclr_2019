@@ -50,6 +50,14 @@ Instructors teaching a graduate-level machine learning course in Fall 2018 are e
 
 T.B.D, contact [Joelle Pineau](mailto:jpineau@cs.mcgill.ca)
 
+## Available resources
+
+- Instructors can apply for [Google Cloud credits](https://cloud.google.com/edu/) for their students. Each student will be given a small number of credits to start (approx. $50).
+- By default, Google Cloud accounts don't come with a GPU quota, but you can find instructions on how to request GPUs, including links on how to check and increase quotas, at this link.
+- If necessary, instructors can ask for much more computing credits (up to $1000 per student) by contacting: [CloudEDUGrants@google.com](CloudEDUGrants@google.com).
+- Students can also request a $300 credit.
+- If you are another company that can offer cloud computing credits, please contact [reproducibility.challenge@gmail.com](mailto:reproducibility.challenge@gmail.com). 
+
 ## Important dates
 
 - Announcement of the challenge: Early September 2018

@@ -1,6 +1,6 @@
 # ICLR Reproducibility Challenge 2019
 
-[Sign-up Form](https://docs.google.com/forms/d/e/1FAIpQLSehp6-IcArs4hzWB9gkPsR_abekpZrDXCGf27I5G4vZ5h1kFQ/viewform?usp=sf_link) 
+[Sign-up Form](https://docs.google.com/forms/d/e/1FAIpQLSehp6-IcArs4hzWB9gkPsR_abekpZrDXCGf27I5G4vZ5h1kFQ/viewform?usp=sf_link) | [Search ICLR for Papers](https://openreview.net/group?id=ICLR.cc/2019/Conference) 
 
 Welcome to the 2nd edition of ICLR reproducibility challenge! One of the challenges in machine learning research is to ensure that published results are reliable and reproducible. In support of this, the goal of this challenge is to investigate reproducibility of empirical results submitted to the [2019 International Conference on Learning Representations](http://iclr.cc/).
 We are choosing ICLR for this challenge because the timing is right for course-based participants (see below), and because papers submitted to the conference are automatically made available publicly on [Open Review](https://openreview.net/).

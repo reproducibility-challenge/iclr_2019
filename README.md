@@ -46,9 +46,10 @@ If you choose to leave the competition, please comment the following: `@reproduc
 
 ## Participating Institutions
 
-Instructors teaching a graduate-level machine learning course in Fall 2018 are encouraged to use this challenge as their final course project. The project can be completed individually or in small groups. Participation by other researchers or research trainees with adequate machine learning experience is also encouraged.
+- [COMP 652, Machine Learning](https://rllabmcgill.github.io/COMP-652/index.html), McGill University
+- [11-785 Introduction to Deep Learning](http://deeplearning.cs.cmu.edu/), Carnegie Melon University
 
-T.B.D, contact [Joelle Pineau](mailto:jpineau@cs.mcgill.ca)
+Instructors teaching a graduate-level machine learning course in Fall 2018 are encouraged to use this challenge as their final course project. The project can be completed individually or in small groups. Participation by other researchers or research trainees with adequate machine learning experience is also encouraged. Contact [Joelle Pineau](mailto:jpineau@cs.mcgill.ca) or [us](mailto:reproducibility.challenge@gmail.com) to register your course.
 
 ## Available resources
 

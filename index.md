@@ -56,6 +56,14 @@ Instructors teaching a graduate-level machine learning course in Fall 2018 are e
 - Students can also request a $300 credit.
 - If you are another company that can offer cloud computing credits, please contact [reproducibility.challenge@gmail.com](mailto:reproducibility.challenge@gmail.com). 
 
+## Proposed outcomes
+
+Participants should produce a Reproducibility report, describing the target questions, experimental methodology, implementation details, analysis and discussion of findings, conclusions on reproducibility of the paper. This report should be posted as a contributed review on OpenReview.
+
+The result of the reproducibility study should NOT be a simple Pass / Fail outcome. The goal should be to identify which parts of the contribution can be reproduced, and at what cost in terms of resources (computation, time, people, development effort, communication with the authors).
+
+Participants should expect to engage in dialogue with ICLR authors through the OpenReview site. In cases where participants have made significant contributions to the final paper, ICLR should allow adding these participants as co-authors (at the request of the original authors only.)
+
 ## Important dates
 
 - Announcement of the challenge: Early September 2018

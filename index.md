@@ -57,6 +57,7 @@ If you choose to leave the competition, please comment the following: `@reproduc
 - [STAT 946, Deep Learning](https://uwaterloo.ca/data-analytics/teaching/deep-learning-2017), University of Waterloo
 - [STAT 441/841/CM763 : Classification](https://uwaterloo.ca/data-analytics/statistical-learning-classification), University of Waterloo
 - [GIF-4101 / GIF-7005 : Introduction à l'apprentissage machine](http://vision.gel.ulaval.ca/~cgagne/enseignement/apprentissage/A2018/), Université Laval
+- [CS 433 : Machine Learning](https://mlo.epfl.ch/page-157255-en-html/), EPFL 
 
 Instructors teaching a graduate-level machine learning course in Fall 2018 are encouraged to use this challenge as their final course project. The project can be completed individually or in small groups. Participation by other researchers or research trainees with adequate machine learning experience is also encouraged. Contact [Joelle Pineau](mailto:jpineau@cs.mcgill.ca) or [us](mailto:reproducibility.challenge@gmail.com) to register your course.
 

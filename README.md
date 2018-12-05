@@ -12,6 +12,7 @@ We are choosing ICLR for this challenge because the timing is right for course-b
 - We have partnered with [ReScience](https://rescience.github.io/), where selected reproducibility efforts will be published as a special journal issue.
 - Submit a Pull Request (PR) mentioning your issue number to this repository to upload your report
 - **Deadline for submission: January 7th, 2019**
+- [Submission Instructions available](#submission-instructions).
 - Call for Reviewers open: [https://goo.gl/forms/tjrNfubMR8zQClkJ3](https://goo.gl/forms/tjrNfubMR8zQClkJ3)
 ----
 
@@ -46,8 +47,20 @@ After your reproducibility project is complete, you should:
 
 - Change the label of your issue from "in-progress" to "complete". Note this is when you make yourself public. To do that, mention the organization owner [@reproducibility-org](https://github.com/reproducibility-org) and comment the following: `@reproducibility-org complete`. Since in the form we asked your team lead's Github ID, this command can only used by him/her. We verify your ID and if you are assigned to this particular issue then we change the label of the issue to "complete".
 - Post a public description of your report as a comment to the linked OpenReview forum. This report should be brief (300-400 words) detailing the key findings of your report.
-- Submit a PR referring to the issue where you submit your report. 
-- Link your Github reproducibilty repository in your issue comment and in the PR (Optional but recommended, obviously!).
+
+#### Submission Instructions
+
+- Submit a PR referring to the issue where you submit your report.
+  - Your report should be in [ICLR Latex template](https://www.overleaf.com/latex/templates/template-for-iclr-2019-conference-submissions/cgrnhwjpnfsv).
+  - Your report should be within 5-8 pages.
+  - To submit the report, open a [Pull Request (PR)](https://help.github.com/articles/creating-a-pull-request-from-a-fork/) to our Github repository:
+  - Fork our repository to your Github account
+  - Create a folder with your team name & paper ID within “papers” folder. For example, if your team name is “ABC” and paper ID is “abcXYZ123”, then the folder name should be “ABC-abcXYZ123”.
+  - Upload your report in the folder (compiled pdf only)
+  - Include a README file in the folder which has a link to your codebase and link to your issue
+  - Open a Pull Request (PR) to our repository
+  - In the description of the Pull Request, mention your issue number (#x)
+  - Your report should also contain a link to your reproducibility codebase.
 
 
 ### Leaving the competition
@@ -103,8 +116,8 @@ Drop us a mail at [reproducibility.challenge@gmail.com](mailto:reproducibility.c
 ## Contact & People
 
 - [Genevieve Fried](mailto:genevieve.fried@mail.mcgill.ca), logistics and registration
-- [Rosemary Nan Ke](mailto:rosemary.nan.ke@gmail.com), references, adverstising and technical support
+- [Rosemary Nan Ke](mailto:rosemary.nan.ke@gmail.com), references, advertising and technical support
 - [Hugo Larochelle](mailto:hugolarochelle@google.com), corporate sponsorship
-- [Koustuv Sinha](mailto:koustuv.sinha@mail.mcgill.ca), academic liason
+- [Koustuv Sinha](mailto:koustuv.sinha@mail.mcgill.ca), academic liaison
 - [Joelle Pineau](mailto:jpineau@cs.mcgill.ca), challenge coordinator
 

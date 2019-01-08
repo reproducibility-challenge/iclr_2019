@@ -11,7 +11,7 @@ We are choosing ICLR for this challenge because the timing is right for course-b
 
 - We have partnered with [ReScience](https://rescience.github.io/), where selected reproducibility efforts will be published as a special journal issue.
 - Submit a Pull Request (PR) mentioning your issue number to this repository to upload your report
-- **Deadline for submission: January 7th, 2019**
+- **Deadline for submission: ~January 7th, 2019~ extended to January 12th, 2019**
 - [Submission Instructions available](#submission-instructions).
 - Call for Reviewers open: [https://goo.gl/forms/tjrNfubMR8zQClkJ3](https://goo.gl/forms/tjrNfubMR8zQClkJ3)
 ----

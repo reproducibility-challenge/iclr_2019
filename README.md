@@ -102,7 +102,7 @@ Participants should expect to engage in dialogue with ICLR authors through the O
 
 - Announcement of the challenge: Early September 2018
 - Registration of participants: Anytime during the fall
-- Final submission of reproducibility report: **January 7th, 2019**
+- Final submission of reproducibility report: **~January 7th, 2019~ January 12th, 2019**
 
 
 ## Suggested Reading List

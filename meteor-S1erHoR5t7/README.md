@@ -8,30 +8,41 @@ Code Repo: [VSR](https://github.com/LoSealL/VideoSuperResolution)
 
 ### How to reproduce benchmark
 
+0. Clone repo:
+
+    ```bash
+    git clone https://github.com/LoSealL/VideoSuperResolution -b iclr_submit
+    ```
+
 1. Download dataset and weights
 
-   1. CIFAR10 downloads automatically
-   2. CelebA is downloaded [here](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html), and is processed:
+   1. CIFAR10 will be downloaded in the code automatically.
+   2. CelebA is downloaded [here](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html), and is processed by:
       ```bash
       python VSR/Tools/DataProcessing/CelebA.py /mnt/data/dataset/celeba/ --n_test=10000
       ```
+      where `/mnt/data/dataset/celeba` is your root to CelebA dataset. This will create a `resize64` folder holds `192,599` training patches and a `test64` folder holds `10000` testing patches under that root directory.
 
-   3. weights are downloaded by `python prepare_data.py --filter="\w*gan"`, which will extract weights into `./Results/`
+   3. Weights are downloaded by using `python prepare_data.py --filter="\w*gan"`, which will extract weights into `./Results/` (*Requires your permission*).
 
 2. Evaluate GAN models
 
-   One sample:
+   Example for RGAN:
    ```bash
    cd Train
    python run.py --mode=eval --model=rgan --checkpoint_dir=../Results/rgan --epochs=500 --test=cifar10 --enable_inception_score --enable_fid
    ```
-   
+
+   Where you can see printed FID and IS value on terminal, and you can also find records file in `/tmp/vsr/<date>/eval_results.csv`.
+
 3. Generate samples
 
    ```bash
    cd Train
    python run.py --model=rgan --test=cifar10
    ```
+
+   Where the generated images are saved in `../Results/rgan/cifar10`.
 
 4. Train models from scratch
 

@@ -22,7 +22,7 @@ We are choosing ICLR for this challenge because the timing is right for course-b
 
 The following reports have been accepted for ICLR Reproducibility Challenge, and will therefore be published in our special edition of the ReScience Journal.
 
-PR: [146](https://github.com/reproducibility-challenge/iclr_2019/pulls/146), [136](https://github.com/reproducibility-challenge/iclr_2019/pulls/136), [150](https://github.com/reproducibility-challenge/iclr_2019/pulls/150), [148](https://github.com/reproducibility-challenge/iclr_2019/pulls/148)
+PR: [146](https://github.com/reproducibility-challenge/iclr_2019/pull/146), [136](https://github.com/reproducibility-challenge/iclr_2019/pull/136), [150](https://github.com/reproducibility-challenge/iclr_2019/pull/150), [148](https://github.com/reproducibility-challenge/iclr_2019/pull/148)
 
 Congratulations!
 

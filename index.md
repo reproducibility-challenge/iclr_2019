@@ -7,6 +7,7 @@ We are choosing ICLR for this challenge because the timing is right for course-b
 
 - **Acceptance Decisions are out!**
 - We have partnered with [ReScience](https://rescience.github.io/), where selected reproducibility efforts will be published as a special journal issue.
+
 ----
 
 

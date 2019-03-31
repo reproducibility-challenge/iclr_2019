@@ -39,6 +39,7 @@ Many thanks to all our reviewers who spent their precious time to critically rev
 - Joey Bose, Mila / McGill University
 - Lovedeep Gondara, Simon Fraser University
 - Maneesh K Singh, Verisk
+- Martin Jaggi, École polytechnique fédérale de Lausanne
 - Malik Altakrori, Mila / McGill University
 - Melanie Fernandez Pradier, Harvard University
 - Michela Paganini, Facebook

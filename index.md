@@ -5,11 +5,49 @@ We are choosing ICLR for this challenge because the timing is right for course-b
 
 **News** : 
 
+- **Acceptance Decisions are out!**
 - We have partnered with [ReScience](https://rescience.github.io/), where selected reproducibility efforts will be published as a special journal issue.
-- Submit a Pull Request (PR) mentioning your issue number to this repository to upload your report
 - **Deadline for submission: ~January 7th, 2019~ extended to January 12th, 2019**
-- [Submission Instructions available](#submission-instructions).
-- Call for Reviewers open: [https://goo.gl/forms/tjrNfubMR8zQClkJ3](https://goo.gl/forms/tjrNfubMR8zQClkJ3)
+----
+
+
+## Accepted Reports
+
+The following reports have been accepted for ICLR Reproducibility Challenge, and will therefore be published in our special edition of the ReScience Journal.
+
+PR: [146](https://github.com/reproducibility-challenge/iclr_2019/pull/146), [136](https://github.com/reproducibility-challenge/iclr_2019/pull/136), [150](https://github.com/reproducibility-challenge/iclr_2019/pull/150), [148](https://github.com/reproducibility-challenge/iclr_2019/pull/148)
+
+Congratulations!
+
+## Thanks to all Reviewers!
+
+Many thanks to all our reviewers who spent their precious time to critically review the reports. We acknowledge your hard effort and hope that you will keep supporting us in this endeavour in the future! Many thanks to (in alphabetical order):
+
+- Andrew Jaegle, University of Pennsylvania
+- Arna Ghosh, McGill University
+- Chaochao Lu, University of Cambridge
+- Ishan Durugkar, University of Texas at Austin
+- Jiahui Yu, University of Illinois, Urbana Champaign
+- Joelle Pineau, Facebook AI Research / McGill University
+- Joey Bose, Mila / McGill University
+- Lovedeep Gondara, Simon Fraser University
+- Maneesh K Singh, Verisk
+- Martin Jaggi, École polytechnique fédérale de Lausanne
+- Malik Altakrori, Mila / McGill University
+- Melanie Fernandez Pradier, Harvard University
+- Michela Paganini, Facebook
+- Mido Assran, Facebook AI Research / McGill University
+- Nicolas Gontier, Mila / Element AI
+- Noe Casas, Universitat Politecnica de Catalunya
+- Olexa Bilaniuk, Mila / Université de Montréal
+- Pablo Samuel Castro, Google Brain
+- Peter Henderson, Stanford University
+- Rosemary Nan Ke, Mila / Facebook AI Research
+- Ryan Lowe, Mila / Facebook AI Research
+- Shagun Sodhani, Mila / Université de Montréal
+- Seungjae Ryan Lee, END-TO-END AI, Princeton University
+- Xavier Giro, Universitat Politecnica de Catalunya
+
 
 ----
 

@@ -26,6 +26,37 @@ PR: [146](https://github.com/reproducibility-challenge/iclr_2019/pull/146), [136
 
 Congratulations!
 
+## Thanks to all Reviewers!
+
+Many thanks to all our reviewers who spent their precious time to critically review the reports. We acknowledge your hard effort and hope that you will keep supporting us in this endeavour in the future! Many thanks to (in alphabetical order):
+
+- Andrew Jaegle, University of Pennsylvania
+- Arna Ghosh, McGill University
+- Chaochao Lu, University of Cambridge
+- Ishan Durugkar, University of Texas at Austin
+- Jiahui Yu, University of Illinois, Urbana Champaign
+- Joelle Pineau, Facebook AI Research / McGill University
+- Joey Bose, Mila / McGill University
+- Lovedeep Gondara, Simon Fraser University
+- Maneesh K Singh, Verisk
+- Malik Altakrori, Mila / McGill University
+- Melanie Fernandez Pradier, Harvard University
+- Michela Paganini, Facebook
+- Mido Assran, Facebook AI Research / McGill University
+- Nicolas Gontier, Mila / Element AI
+- Noe Casas, Universitat Politecnica de Catalunya
+- Olexa Bilaniuk, Mila / Université de Montréal
+- Pablo Samuel Castro, Google Brain
+- Peter Henderson, Stanford University
+- Rosemary Nan Ke, Mila / Facebook AI Research
+- Ryan Lowe, Mila / Facebook AI Research
+- Shagun Sodhani, Mila / Université de Montréal
+- Seungjae Ryan Lee, END-TO-END AI, Princeton University
+- Xavier Giro, Universitat Politecnica de Catalunya
+
+
+----
+
 ## Task Description
 
 You should select a paper from the 2019 ICLR submissions, and aim to replicate the experiments described in the paper. The goal is to assess if the experiments are reproducible, and to determine if the conclusions of the paper are supported by your findings. Your results can be either positive (i.e. confirm reproducibility), or negative (i.e. explain what you were unable to reproduce, and potentially explain why).

@@ -9,7 +9,7 @@ We are choosing ICLR for this challenge because the timing is right for course-b
 - We have partnered with [ReScience](https://rescience.github.io/), where selected reproducibility efforts will be published as a special journal issue.
 
 
-## Accepted Reports
+#### Accepted Reports
 
 The following reports have been accepted for ICLR Reproducibility Challenge, and will therefore be published in our special edition of the ReScience Journal.
 
@@ -17,7 +17,7 @@ PR: [146](https://github.com/reproducibility-challenge/iclr_2019/pull/146), [136
 
 Congratulations!
 
-## Thanks to all Reviewers!
+#### Thanks to all Reviewers!
 
 Many thanks to all our reviewers who spent their precious time to critically review the reports. We acknowledge your hard effort and hope that you will keep supporting us in this endeavour in the future! Many thanks to (in alphabetical order):
 

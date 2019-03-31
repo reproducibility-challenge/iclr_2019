@@ -39,7 +39,7 @@ Many thanks to all our reviewers who spent their precious time to critically rev
 - Martin Jaggi, École polytechnique fédérale de Lausanne
 - Malik Altakrori, Mila / McGill University
 - Melanie Fernandez Pradier, Harvard University
-- Michela Paganini, Facebook
+- Michela Paganini, Facebook AI Research
 - Mido Assran, Facebook AI Research / McGill University
 - Nicolas Gontier, Mila / Element AI
 - Noe Casas, Universitat Politecnica de Catalunya

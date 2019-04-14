@@ -1,0 +1,26 @@
+\documentclass{rescience}
+
+\usepackage{hyperref}
+\usepackage{url}
+
+\usepackage[pdftex]{graphicx}	% For figure environment
+\usepackage{amssymb}
+\usepackage{pifont}
+\usepackage{bm}
+\usepackage{amsmath}
+\usepackage{algorithm,algorithmic}
+\usepackage{afterpage}
+\usepackage{setspace}
+
+\setlength{\parskip}{.5em}
+
+\begin{document}
+\input{header.tex}
+\input{content.tex}
+
+\hypersetup{linkcolor=black,urlcolor=darkgray}
+\renewcommand\emph[1]{{\bfseries #1}}
+\setlength\bibitemsep{0pt}
+\printbibliography
+
+\end{document}

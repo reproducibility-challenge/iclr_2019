@@ -1,0 +1,118 @@
+# To be filled by the author(s) at the time of submission
+# -------------------------------------------------------
+
+# Title of the article:
+#  - For a successful replication, it shoudl be prefixed with "[Re]"
+#  - For a failed replication, it should be prefixed with "[¬Re]"
+#  - For other article types, no instruction (but please, not too long)
+title: "Variational Sparse Coding"
+
+# List of authors with name, orcid number, email and affiliation
+# Affiliation "*" means contact author
+authors:
+  - name: Alfredo De la Fuente
+    orcid: 0000-0002-5027-2771
+    email: alfredo.delafuente@skoltech.ru
+    affiliations: 1,2
+    
+  - name: Robert Aduviri
+    orcid: 0000-0002-6972-589X
+    email: robert.aduviri@pucp.edu.pe
+    affiliations: 3,*      # * is for contact author
+
+# List of affiliations with code (corresponding to author affiliations), name
+# and address. You can also use these affiliations to add text such as "Equal
+# contributions" as name (with no address).
+affiliations:
+  - code:    1
+    name:    Skolkovo Institute of Science and Technology
+    address: Moscow, Russia
+    
+  - code:    2
+    name:    National Research University Higher School of Economics
+    address: Moscow, Russia
+    
+  - code:    3
+    name:    Pontifical Catholic University of Peru
+    address: Lima, Peru
+
+
+# List of keywords (adding the programming language might be a good idea)
+keywords: generative models, variational autoencoders, sparse coding
+
+# Code URL and DOI (url is mandatory for replication, doi after acceptance)
+# You can get a DOI for your code from Zenodo,
+#   see https://guides.github.com/activities/citable-code/
+code:
+  - url: https://github.com/Alfo5123/Variational-Sparse-Coding
+  - doi: 10.5281/zenodo.2657330 
+
+# Date URL and DOI (optional if no data)
+data:
+  - url:
+  - doi:
+
+# Information about the original article that has been replicated
+replication:
+ - cite: # Full textual citation
+ - bib:  # Bibtex key (if any) in your bibliography file
+ - url:  https://openreview.net/pdf?id=SkeJ6iR9Km # URL to the PDF, try to link to a non-paywall version
+ - doi:  # Regular digital object identifier
+
+# Don't forget to surround abstract with double quotes
+abstract: "In this work we replicate and validate the experiments described in the paper 'Variational Sparse Coding' submitted to the ICLR 2019 Conference. Aiming to reproduce the results obtained by the authors, we implemented from scratch the variational auto-encoder architecture as described in the submitted paper to learn sparse representations for MNIST, Fashion-MNIST and CelebA datasets. We run the experiments and propose further suggestions to improve model performance at generating samples from low-dimensional vectors, traversing latent space, and using the sparse representations for classification tasks. We conclude that reproducibility, given the paper description, is overall possible."
+
+# Bibliography file (yours)
+bibliography: bibliography.bib
+  
+# Type of the article
+# Type can be:
+#  * Editorial
+#  * Letter
+#  * Replication
+type: Replication
+
+# Scientific domain of the article (e.g. Computational Neuroscience)
+#  (one domain only & try to be not overly specific)
+domain: Machine Learning
+
+# Coding language (main one only if several)
+language:
+
+  
+# To be filled by the author(s) after acceptance
+# -----------------------------------------------------------------------------
+
+# For example, the URL of the GitHub issue where review actually occured
+review: 
+  - url: 
+
+contributors:
+  - name:
+    orcid: 
+    role: editor
+  - name:
+    orcid:
+    role: reviewer
+  - name:
+    orcid:
+    role: reviewer
+
+# This information will be provided by the editor
+dates:
+  - received:  November 1, 2018
+  - accepted: 
+  - published: 
+
+# This information will be provided by the editor
+article:
+  - number: # Article number will be automatically assigned during publication
+  - doi:    # DOI from Zenodo
+  - url:    # Final PDF URL (Zenodo or rescience website?)
+
+# This information will be provided by the editor
+journal:
+  - name:   "ReScience C"
+  - issn:   2430-3658
+  - volume: 4
+  - issue:  1

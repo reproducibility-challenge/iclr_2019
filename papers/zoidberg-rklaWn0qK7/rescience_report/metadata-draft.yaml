@@ -1,0 +1,113 @@
+# To be filled by the author(s) at the time of submission
+# -------------------------------------------------------
+
+# Title of the article:
+#  - For a successful replication, it shoudl be prefixed with "[Re]"
+#  - For a failed replication, it should be prefixed with "[¬Re]"
+#  - For other article types, no instruction (but please, not too long)
+title: "Learning Neural PDE Solvers with Convergence Guarantees ICLR Reproducibility Challenge 2019"
+
+# List of authors with name, orcid number, email and affiliation
+# Affiliation "*" means contact author
+authors:
+  - name: Francesco Bardi
+    email: francesco.bardi@epfl.ch
+    affiliations: 1,*
+
+  - name: Samuel von Baussnern
+    email: samuel.edlervonbaussnern@epfl.ch
+    affiliations: 1,      # * is for contact author
+
+  - name: Emiljano Gjiriti
+    email: emiljano.gjiriti@epfl.ch
+    affiliations: 1,
+
+
+# List of affiliations with code (corresponding to author affiliations), name
+# and address. You can also use these affiliations to add text such as "Equal
+# contributions" as name (with no address).
+affiliations:
+  - code:    1
+    name: École polytechnique fédérale de Lausanne (EPFL)
+    address: Lausanne, Switzerland
+
+
+
+# List of keywords (adding the programming language might be a good idea)
+keywords: PDE, PDE Solver, Deep Learning, Python, PyTorch
+
+# Code URL and DOI (url is mandatory for replication, doi after acceptance)
+# You can get a DOI for your code from Zenodo,
+#   see https://guides.github.com/activities/citable-code/
+code:
+  - url: https://github.com/francescobardi/pde_solver_deep_learned
+  - doi:
+
+# Date URL and DOI (optional if no data)
+data:
+  - url:
+  - doi:
+
+# Information about the original article that has been replicated
+replication:
+ - cite: # Full textual citation
+ - bib:  # Bibtex key (if any) in your bibliography file
+ - url:  # URL to the PDF, try to link to a non-paywall version
+ - doi:  # Regular digital object identifier
+
+# Don't forget to surround abstract with double quotes
+   abstract: 'This paper is part of the ICLR Reproducibility Challenge 2019. We tried to replicate the results and algorithm for training an iterative partial differential equation solver by interpreting        the solver as a linear convolutional neural network and optimizing the weights of the convolutional kernels. We can replicate the results of the original paper \\cite{original_paper}\\footnote{We         based our this report on the version from the 10 October 2018. We noted no differences to the newest version from the 23 November 2018 with regard to this report.}, obtaining a general solver, which      generalizes well to a wide variety of geometries and boundary conditions, while achieving high speed ups compared to the baseline solver and guaranteeing convergence.\\footnote{The code, written in       Python using PyTorch, can be found on Github: \\url{https://github.com/francescobardi/pde_solver_deep_learned'
+
+bibliography: iclr2019_conference.bib
+
+# Type of the article
+# Type can be:
+#  * Editorial
+#  * Letter
+#  * Replication
+type: Editorial
+
+# Scientific domain of the article (e.g. Computational Neuroscience)
+#  (one domain only & try to be not overly specific)
+domain:
+
+# Coding language (main one only if several)
+language:
+
+
+# To be filled by the author(s) after acceptance
+# -----------------------------------------------------------------------------
+
+# For example, the URL of the GitHub issue where review actually occured
+review:
+  - url:
+
+contributors:
+  - name:
+    orcid:
+    role: editor
+  - name:
+    orcid:
+    role: reviewer
+  - name:
+    orcid:
+    role: reviewer
+
+# This information will be provided by the editor
+dates:
+  - received:  November 1, 2018
+  - accepted:
+  - published:
+
+# This information will be provided by the editor
+article:
+  - number: # Article number will be automatically assigned during publication
+  - doi:    # DOI from Zenodo
+  - url:    # Final PDF URL (Zenodo or rescience website?)
+
+# This information will be provided by the editor
+journal:
+  - name:   "ReScience C"
+  - issn:   2430-3658
+  - volume: 4
+  - issue:  1

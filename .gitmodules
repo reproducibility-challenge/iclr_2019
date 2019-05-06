@@ -7,3 +7,6 @@
 [submodule "papers/LCAX-HyxnZh0ct7/ReScience_src/template"]
 	path = papers/LCAX-HyxnZh0ct7/ReScience_src/template
 	url = git@github.com:koustuvsinha/template.git
+[submodule "papers/FrazadaTigre-SkeJ6iR9Km/template"]
+	path = papers/FrazadaTigre-SkeJ6iR9Km/template
+	url = git@github.com:koustuvsinha/template.git

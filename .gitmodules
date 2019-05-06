@@ -1,0 +1,3 @@
+[submodule "papers/zoidberg-rklaWn0qK7/pde_solver_deep_learned"]
+	path = papers/zoidberg-rklaWn0qK7/pde_solver_deep_learned
+	url = git@github.com:francescobardi/pde_solver_deep_learned.git

@@ -1,0 +1,104 @@
+# To be filled by the author(s) at the time of submission
+# -------------------------------------------------------
+
+# Title of the article:
+#  - For a successful replication, it shoudl be prefixed with "[Re]"
+#  - For a failed replication, it should be prefixed with "[¬Re]"
+#  - For other article types, no instruction (but please, not too long)
+title: "[Re] h-detach: Modifying the LSTM gradient towards better optimization"
+
+# List of authors with name, orcid number, email and affiliation
+# Affiliation "*" means contact author
+authors:
+  - name: Aniket Didolkar
+    orcid: 0000-0001-9183-3144
+    email: 
+    affiliations: 1,* 
+
+# List of affiliations with code (corresponding to author affiliations), name
+# and address. You can also use these affiliations to add text such as "Equal
+# contributions" as name (with no address).
+affiliations:
+  - code:    1
+    name:    Manipal Academy of Higher Education
+    address: Manipal, India
+ 
+# List of keywords (adding the programming language might be a good idea)
+keywords: rescience c, rescience x, Machine Learning, ICLR Reproducibility Challenge, ICLR 2019
+
+# Code URL and DOI (url is mandatory for replication, doi after acceptance)
+# You can get a DOI for your code from Zenodo,
+#   see https://guides.github.com/activities/citable-code/
+code:
+  - url: https://github.com/dido1998/h-detach/tree/v1.0
+  - doi: 10.5281/zenodo.2657361 
+
+# Date URL and DOI (optional if no data)
+data:
+  - url:
+  - doi:
+
+# Information about the original article that has been replicated
+replication:
+ - cite: 
+ - bib: kanuparthi2018hdetach  # Bibtex key (if any) in your bibliography file
+ - url:  https://arxiv.org/pdf/1810.03023.pdf
+ - doi:  # Regular digital object identifier
+
+# Don't forget to surround abstract with double quotes
+abstract: "Recurrent neural networks have been widely used for processing sequences. Recurrent neural networks     are known for their exploding and vanishing gradient problem (EVGP). This problem becomes more evident  in tasks where the information needed to correctly solve them exist over long time scales, because EVGP prevents important gradient components from being back-propagated adequately over a large number of steps. This paper aims to reproduce the results of the paper \\cite{kanuparthi2018hdetach}.\\cite{kanuparthi2018hdetach} introduces a stochastic algorithm (h-detach) to mitigate the EVGP problem in Long Short Term Memory networks. Long Short Term Memory networks – usually just called ``LSTMs\"\" – are a special kind of RNN, capable of learning long-term dependencies."
+
+# Bibliography file (yours)
+bibliography: bibliography.bib
+  
+# Type of the article
+# Type can be:
+#  * Editorial
+#  * Letter
+#  * Replication
+type: Replication
+
+# Scientific domain of the article (e.g. Computational Neuroscience)
+#  (one domain only & try to be not overly specific)
+domain: Machine Learning
+
+# Coding language (main one only if several)
+language: python
+
+  
+# To be filled by the author(s) after acceptance
+# -----------------------------------------------------------------------------
+
+# For example, the URL of the GitHub issue where review actually occured
+review: 
+  - url: 
+
+contributors:
+  - name:
+    orcid: 
+    role: editor
+  - name: Anonymous
+    orcid:
+    role: reviewer
+  - name: Anonymous
+    orcid:
+    role: reviewer
+
+# This information will be provided by the editor
+dates:
+  - received:  November 1, 2018
+  - accepted:
+  - published: 
+
+# This information will be provided by the editor
+article:
+  - number: # Article number will be automatically assigned during publication
+  - doi:    # DOI from Zenodo
+  - url:    # Final PDF URL (Zenodo or rescience website?)
+
+# This information will be provided by the editor
+journal:
+  - name:   "ReScience C"
+  - issn:   2430-3658
+  - volume: 5
+  - issue:  2

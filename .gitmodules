@@ -4,3 +4,6 @@
 [submodule "papers/TeamYakataka-ryf7ioRqFX/iclr-reproducibility-template"]
 	path = papers/TeamYakataka-ryf7ioRqFX/iclr-reproducibility-template
 	url = git@github.com:dido1998/iclr-reproducibility-template.git
+[submodule "papers/LCAX-HyxnZh0ct7/ReScience_src/template"]
+	path = papers/LCAX-HyxnZh0ct7/ReScience_src/template
+	url = git@github.com:koustuvsinha/template.git

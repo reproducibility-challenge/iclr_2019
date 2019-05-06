@@ -1,0 +1,127 @@
+# To be filled by the author(s) at the time of submission
+# -------------------------------------------------------
+
+# Title of the article:
+#  - For a successful replication, it shoudl be prefixed with "[Re]"
+#  - For a failed replication, it should be prefixed with "[¬Re]"
+#  - For other article types, no instruction (but please, not too long)
+title: "[Re] Meta-learning with differentiable closed-form solvers"
+
+# List of authors with name, orcid number, email and affiliation
+# Affiliation "*" means contact author
+authors:
+  - name: Arnout Devos
+    orcid: 0000-0002-9425-1163
+    email: arnout.devos@epfl.ch
+    affiliations: 1,2,*
+
+  - name: Sylvain Chatel
+    email: sylvain.chatel@epfl.ch
+    affiliations: 1,2     # * is for contact author
+
+  - name: Matthias Grossglauser
+    email: matthias.grossglauser@epfl.ch
+    affiliations: 1
+
+# List of affiliations with code (corresponding to author affiliations), name
+# and address. You can also use these affiliations to add text such as "Equal
+# contributions" as name (with no address).
+affiliations:
+  - code:    1
+    name:    Swiss Federal Institute of Technology Lausanne (EPFL)
+    address: Switzerland
+  - code:    2
+    name:    Equal contribution
+
+# List of keywords (adding the programming language might be a good idea)
+keywords: rescience c, rescience x, Machine Learning, Meta-Learning, Few-Shot, Deep-Learning, Python
+
+# Code URL and DOI (url is mandatory for replication, doi after acceptance)
+# You can get a DOI for your code from Zenodo,
+#   see https://guides.github.com/activities/citable-code/
+code:
+  - url: https://github.com/ArnoutDevos/r2d2
+  - doi:
+
+# Date URL and DOI (optional if no data)
+data:
+  - url:
+  - doi:
+
+# Information about the original article that has been replicated
+replication:
+ - cite: # Full textual citation
+ - bib:  # Bibtex key (if any) in your bibliography file
+ - url:  # URL to the PDF, try to link to a non-paywall version
+ - doi:  # Regular digital object identifier
+
+# Don't forget to surround abstract with double quotes
+abstract: "In this paper, we present a reproduction of the paper of
+          Bertinetto et al. [1] ”Meta- learning with differentiable closed-form
+          solvers” as part of the ICLR 2019 Reproducibility Challenge. In
+          successfully reproducing the most crucial part of the paper, we reach
+          a performance that is comparable with or superior to the original
+          paper on two benchmarks for several settings. We evaluate new baseline
+          results, using a new dataset presented in the paper. Yet, we also
+          provide multiple remarks and recommendations about reproducibility and
+          comparability. After we brought our reproducibility work to the
+          authorsʼ attention, they have updated the original paper on which this
+          work is based and released code as well. Our contributions mainly
+          consist in reproducing the most important results of their original
+          paper, in giving insight in the reproducibility and in providing a
+          first open-source implementation."
+
+# Bibliography file (yours)
+bibliography: bibliography.bib
+
+# Type of the article
+# Type can be:
+#  * Editorial
+#  * Letter
+#  * Replication
+type: Replication
+
+# Scientific domain of the article (e.g. Computational Neuroscience)
+#  (one domain only & try to be not overly specific)
+domain: Machine Learning
+
+# Coding language (main one only if several)
+language: Python
+
+
+# To be filled by the author(s) after acceptance
+# -----------------------------------------------------------------------------
+
+# For example, the URL of the GitHub issue where review actually occured
+review:
+  - url:
+
+contributors:
+  - name:
+    orcid:
+    role: editor
+  - name: Anonymous
+    orcid:
+    role: reviewer
+  - name: Anonymous
+    orcid:
+    role: reviewer
+
+# This information will be provided by the editor
+dates:
+  - received:  May 1, 2019
+  - accepted:
+  - published:
+
+# This information will be provided by the editor
+article:
+  - number: # Article number will be automatically assigned during publication
+  - doi:    # DOI from Zenodo
+  - url:    # Final PDF URL (Zenodo or rescience website?)
+
+# This information will be provided by the editor
+journal:
+  - name:   "ReScience C"
+  - issn:   2430-3658
+  - volume: 5
+  - issue:  2

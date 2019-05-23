@@ -144,6 +144,34 @@ Participants should expect to engage in dialogue with ICLR authors through the O
 
 [See this list](https://www.cs.mcgill.ca/~jpineau/ICLR2018-ReproducibilityChallenge-Readings.pdf). 
 
+## Citing the challenge
+
+You can cite our Editorial on the [Journal Publication](https://rescience.github.io/read/#volume-5-2019) using this bibtex:
+
+```
+@article{Pineau:2019,
+  author = {Pineau, Joelle and Sinha, Koustuv and Fried, Genevieve and Ke, Rosemary Nan and Larochelle, Hugo},
+  title = {{ICLR Reproducibility Challenge 2019}},
+  journal = {ReScience C},
+  year = {2019},
+  month = may,
+  volume = {5},
+  number = {2},
+  pages = {{#5}},
+  doi = {10.5281/zenodo.3158244},
+  url = {https://zenodo.org/record/3158244/files/article.pdf},
+  code_url = {https://github.com/reproducibility-challenge/iclr_2019},
+  code_doi = {},
+  data_url = {},
+  data_doi = {},
+  review_url = {https://github.com/ReScience/submissions/issues/5},
+  type = {Editorial},
+  language = {},
+  domain = {},
+  keywords = {machine learning, ICLR, reproducibility challenge}
+}
+```
+
 ## Questions?
 
 Drop us a mail at [reproducibility.challenge@gmail.com](mailto:reproducibility.challenge@gmail.com)

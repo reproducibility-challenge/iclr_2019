@@ -9,7 +9,7 @@ We are choosing ICLR for this challenge because the timing is right for course-b
 
 **News** : 
 
-- [ReScience special issue](https://rescience.github.io/read/#volume-5-2019) is online
+- **Journal Publication**: The results of ICLR Reproducibility Challenge 2019 is out in [Volume 5, Issue 2 of ReScience Journal](https://rescience.github.io/read/#volume-5-2019).  
 - **Acceptance Decisions are out!**
 - We have partnered with [ReScience](https://rescience.github.io/), where selected reproducibility efforts will be published as a special journal issue.
 - **Deadline for submission: ~January 7th, 2019~ extended to January 12th, 2019**
@@ -18,7 +18,7 @@ We are choosing ICLR for this challenge because the timing is right for course-b
 
 ## Accepted Reports
 
-The following reports have been accepted for ICLR Reproducibility Challenge, and will therefore be published in our special edition of the ReScience Journal.
+The following reports have been accepted for ICLR Reproducibility Challenge, and are published in [Volume 5, Issue 2 of ReScience Journal](https://rescience.github.io/read/#volume-5-2019).
 
 PR: [146](https://github.com/reproducibility-challenge/iclr_2019/pull/146), [136](https://github.com/reproducibility-challenge/iclr_2019/pull/136), [150](https://github.com/reproducibility-challenge/iclr_2019/pull/150), [148](https://github.com/reproducibility-challenge/iclr_2019/pull/148)
 
@@ -148,6 +148,34 @@ Participants should expect to engage in dialogue with ICLR authors through the O
 ## Suggested Reading List
 
 [See this list](https://www.cs.mcgill.ca/~jpineau/ICLR2018-ReproducibilityChallenge-Readings.pdf). 
+
+## Citing the challenge
+
+You can cite our Editorial on the [Journal Publication](https://rescience.github.io/read/#volume-5-2019) using this bibtex:
+
+```
+@article{Pineau:2019,
+  author = {Pineau, Joelle and Sinha, Koustuv and Fried, Genevieve and Ke, Rosemary Nan and Larochelle, Hugo},
+  title = {{ICLR Reproducibility Challenge 2019}},
+  journal = {ReScience C},
+  year = {2019},
+  month = may,
+  volume = {5},
+  number = {2},
+  pages = {{#5}},
+  doi = {10.5281/zenodo.3158244},
+  url = {https://zenodo.org/record/3158244/files/article.pdf},
+  code_url = {https://github.com/reproducibility-challenge/iclr_2019},
+  code_doi = {},
+  data_url = {},
+  data_doi = {},
+  review_url = {https://github.com/ReScience/submissions/issues/5},
+  type = {Editorial},
+  language = {},
+  domain = {},
+  keywords = {machine learning, ICLR, reproducibility challenge}
+}
+```
 
 ## Questions?
 

@@ -1,12 +1,12 @@
 [submodule "papers/zoidberg-rklaWn0qK7/pde_solver_deep_learned"]
 	path = papers/zoidberg-rklaWn0qK7/pde_solver_deep_learned
-	url = git@github.com:francescobardi/pde_solver_deep_learned.git
+	url = https://github.com:francescobardi/pde_solver_deep_learned.git
 [submodule "papers/TeamYakataka-ryf7ioRqFX/iclr-reproducibility-template"]
 	path = papers/TeamYakataka-ryf7ioRqFX/iclr-reproducibility-template
-	url = git@github.com:dido1998/iclr-reproducibility-template.git
+	url = https://github.com:dido1998/iclr-reproducibility-template.git
 [submodule "papers/LCAX-HyxnZh0ct7/ReScience_src/template"]
 	path = papers/LCAX-HyxnZh0ct7/ReScience_src/template
-	url = git@github.com:koustuvsinha/template.git
+	url = https://github.com:koustuvsinha/template.git
 [submodule "papers/FrazadaTigre-SkeJ6iR9Km/template"]
 	path = papers/FrazadaTigre-SkeJ6iR9Km/template
-	url = git@github.com:koustuvsinha/template.git
+	url = https://github.com:koustuvsinha/template.git

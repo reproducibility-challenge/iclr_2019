@@ -5,16 +5,18 @@ We are choosing ICLR for this challenge because the timing is right for course-b
 
 **News** : 
 
+- **Journal Publication**: The results of ICLR Reproducibility Challenge 2019 is out in [Volume 5, Issue 2 of ReScience Journal](https://rescience.github.io/read/#volume-5-2019) 
 - **Acceptance Decisions are out!**
 - We have partnered with [ReScience](https://rescience.github.io/), where selected reproducibility efforts will be published as a special journal issue.
+- **Deadline for submission: ~January 7th, 2019~ extended to January 12th, 2019**
+----
 
 
-#### Accepted Reports
+## Accepted Reports
 
-The following reports have been accepted for ICLR Reproducibility Challenge, and will therefore be published in our special edition of the ReScience Journal.
+The following reports have been accepted for ICLR Reproducibility Challenge, and are published in [Volume 5, Issue 2 of ReScience Journal](https://rescience.github.io/read/#volume-5-2019).
 
 PR: [146](https://github.com/reproducibility-challenge/iclr_2019/pull/146), [136](https://github.com/reproducibility-challenge/iclr_2019/pull/136), [150](https://github.com/reproducibility-challenge/iclr_2019/pull/150), [148](https://github.com/reproducibility-challenge/iclr_2019/pull/148)
-
 Congratulations!
 
 #### Thanks to all Reviewers!
